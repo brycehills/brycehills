@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ..
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbrycehills&countColor=%23263759)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brycehills&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
