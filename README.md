@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbrycehills&show_icons=true&theme=tokyonight)  
 
 <!--
 **brycehills/brycehills** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 -->
 
 ![Bryce's GitHub stats](https://github-readme-stats.vercel.app/api?username=brycehills&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)  
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbrycehills&show_icons=true&theme=tokyonight)  
 
 
