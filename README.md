@@ -1,4 +1,4 @@
-### Hi there 👋    &emsp;     ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbrycehills&show_icons=true&theme=tokyonight)  
+### Hi there 👋    &emsp;  &emsp;   ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbrycehills&show_icons=true&theme=tokyonight)  
 
 <!--
 **brycehills/brycehills** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
