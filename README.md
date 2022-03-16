@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 -->
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbrycehills&show_icons=true&theme=tokyonight)  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brycehills&show_icons=true&theme=radical)
 ![Bryce's GitHub stats](https://github-readme-stats.vercel.app/api?username=brycehills&count_private=true&show_icons=true&theme=tokyonight)
 
 
