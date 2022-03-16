@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbrycehills&countColor=%23263759)  
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbrycehills&countColor=%23263759&theme=radical)  
 ![Bryce's GitHub stats](https://github-readme-stats.vercel.app/api?username=brycehills&count_private=true)
 
 
