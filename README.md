@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 -->
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbrycehills&countColor=%23263759)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brycehills&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Bryce's GitHub stats](https://github-readme-stats.vercel.app/api?username=brycehills&count_private=true)
 
