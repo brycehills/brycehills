@@ -1,18 +1,8 @@
 ### Hi there 👋    &emsp;     ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbrycehills&show_icons=true&theme=tokyonight)  
 
-<!--
-**brycehills/brycehills** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently pursuing a Masters in Computer Science at UC Riverside. 
+- 📫 How to reach me: bhill007@ucr.edu && https://www.linkedin.com/in/brycehills1/.  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ..
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
 
 ![Bryce's GitHub stats](https://github-readme-stats.vercel.app/api?username=brycehills&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&hide=stars,contribs)  
 
