@@ -1,7 +1,7 @@
 ### Hi there 👋    &emsp;     ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbrycehills&show_icons=true&theme=tokyonight)  
 
 - 🔭 I’m currently pursuing a Masters in Computer Science at UC Riverside. 
-- 📫 How to reach me: [Email](mailto:bhill007@ucr.edu) or [Linkedin](https://www.linkedin.com/in/brycehills1/)  
+- 📫 How to reach me: [Email](mailto:hillsbryce0@gmail.com) or [Linkedin](https://www.linkedin.com/in/brycehills1/)  
 
 
 ![brycehills's Streak](https://github-readme-streak-stats.herokuapp.com/?user=brycehills&theme=vue-dark&hide_border=false)  
